@@ -39,7 +39,7 @@ module.exports = {
   Discord Music Bot Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.config.SupportServer
-  }) | [GitHub](https://github.com/SudhanPlayz/Discord-MusicBot) | By [Google#9999](https://github.com/G00gl3-xd)`);
+  }) | [GitHub](https://github.com/G00gl3-xd/music-bot-v2) | By [Google#9999](https://github.com/G00gl3-xd)`);
     if (!args[0]) message.channel.send(Embed);
     else {
       let cmd =
